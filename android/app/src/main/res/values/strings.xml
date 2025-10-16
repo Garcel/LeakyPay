@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">LeakyPay</string>
+    <string name="welcome">Welcome to LeakyPay</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="register">Register</string>
+    <string name="balance">Balance</string>
+    <string name="transfer">Transfer Money</string>
+    <string name="logout">Logout</string>
+    <string name="account_number">Account Number</string>
+    <string name="amount">Amount</string>
+    <string name="submit">Submit</string>
+</resources>
