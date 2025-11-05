@@ -132,7 +132,7 @@ Complete list of intentional security vulnerabilities in the LeakyPay educationa
 ### M5: Insufficient Cryptography
 
 #### 15. Hardcoded Encryption Key
-- **File**: `android/app/src/main/java/com/vulnerable/app/Utils.kt:44`
+- **File**: `android/app/src/main/java/com/vulnerable/app/Utils.kt:50`
 - **Description**: DES key "12345678" hardcoded in source
 - **Impact**: All encrypted data easily decrypted
 - **Exploitation**: Decompile APK, extract key
